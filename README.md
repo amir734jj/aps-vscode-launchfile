@@ -1,2 +1,2 @@
 # aps-vscode-launchfile
-APS vscode launchConfig.json
+APS vscode `launch.json`
